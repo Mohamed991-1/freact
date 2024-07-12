@@ -25,9 +25,12 @@
     font-family: "Karma";
   }
   
-  .food-description {
+  .food-description,.food-price {
     font-size: 15px;
     color: #555;
     padding: 0 16px 16px;
+  }
+  .food-price {
+    font-weight:bold;
   }
   
