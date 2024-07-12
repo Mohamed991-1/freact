@@ -1,0 +1,33 @@
+
+.food-card {
+    text-align: center;
+    overflow: hidden;
+    max-width: 290px;
+    margin: 0 auto;
+    padding: 0 8px;
+    max-height: 20%;
+    width: 24.99999%;
+    font-size: 15px;
+    line-height: 1.5;
+    box-sizing: inherit;
+    
+  }
+  
+  .food-image {
+    width: 100%;
+    height: auto;
+  }
+  
+  .food-title {
+    font-size: 24px;
+    margin: 16px 0 8px;
+    font-weight:normal;
+    font-family: "Karma";
+  }
+  
+  .food-description {
+    font-size: 15px;
+    color: #555;
+    padding: 0 16px 16px;
+  }
+  
